@@ -1,0 +1,1 @@
+BlueNRG-1 Profiles Central roles binary libraries folder (Debug building)
