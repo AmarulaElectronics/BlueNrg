@@ -1,0 +1,9 @@
+sensor.c:163:9:Sensor_DeviceInit	72	static
+sensor.c:269:6:Set_DeviceConnectable	56	static
+sensor.c:301:6:APP_Tick	24	static
+sensor.c:361:6:hci_le_connection_complete_event	0	static
+sensor.c:392:6:hci_disconnection_complete_event	8	static
+sensor.c:416:6:aci_gatt_read_permit_req_event	8	static
+sensor.c:431:6:HAL_VTimerTimeoutCallback	0	static
+sensor.c:450:6:aci_gatt_attribute_modified_event	0	static
+sensor.c:462:6:aci_hal_end_of_radio_activity_event	0	static

@@ -1,0 +1,10 @@
+gatt_db.c:82:25:GetAccAxesRaw	8	static
+gatt_db.c:96:6:GetFreeFallStatus	0	static
+gatt_db.c:116:12:Add_Acc_Service	64	static
+gatt_db.c:155:12:Free_Fall_Notify	32	static
+gatt_db.c:176:12:Acc_Update	32	static
+gatt_db.c:201:12:Add_Environmental_Sensor_Service	96	static
+gatt_db.c:331:12:Temp_Update	32	static
+gatt_db.c:350:12:Press_Update	32	static
+gatt_db.c:371:12:Humidity_Update	32	static
+gatt_db.c:391:6:Read_Request_CB	24	static
